@@ -1,0 +1,25 @@
+{
+  "name": "iniciando-web-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack-cli": "^3.3.9",
+    "webpack": "^4.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanlucio/webpack-init.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanlucio/webpack-init/issues"
+  },
+  "homepage": "https://github.com/allanlucio/webpack-init#readme"
+}
