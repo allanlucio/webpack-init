@@ -1,3 +1,7 @@
+window.$ = window.JQuery = require('jquery');
+window.Popper = require('popper.js');
+require("bootstrap");
+
 (function($) {
 	console.log('Hello', $)
 	$(document).ready(function() {		

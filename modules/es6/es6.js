@@ -3,7 +3,8 @@ export default [
     "agua",
     "suco",
     "vinho",
-    "bebidas"
+    "bebidas",
+    "tang"
 ];
 
 
